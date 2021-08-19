@@ -190,9 +190,12 @@ footer {
     
     .main-img {
         display: block;
+        margin-left: auto;
+        margin-right: auto;
         height: 60vh;
-        width: 60vh;
+        width: auto;
     }
+
 
     .processor {
         background-image: linear-gradient(to top, rgba(0, 0, 0, 0.3) 12%, rgba(0, 0, 0, 0.7) 85%, #000000 100%) ,url('gaming.jpg');
